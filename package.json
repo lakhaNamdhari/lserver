@@ -1,0 +1,28 @@
+{
+  "name": "lserver",
+  "version": "1.0.0",
+  "description": "a light weight node based webserver",
+  "main": "node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakhaNamdhari/lserver"
+  },
+  "keywords": [
+    "node-server",
+    "web-server",
+    "rest-server"
+  ],
+  "author": "Lakha Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakhaNamdhari/lserver/issues"
+  },
+  "homepage": "https://github.com/lakhaNamdhari/lserver",
+  "dependencies": {
+    "extend": "^2.0.0"
+  }
+}
